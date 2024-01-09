@@ -1,7 +1,6 @@
-- Hola, I’m @Linux-MissingNo
-- I’m interested in computer and networking.
-- I’m currently learning networking and how to screw everything up.
-- I’m looking to collaborate on game designing.
+- Hello, I am @Linux-MissingNo!
+- I am working on my 4 years to get Computer Info. Sys. Degree and a minor in Management.
+- I mostly do works on Victoria 3 mods (Petty Burgher is the juiciest mod I ever made)
 - How to reach me: You may message me on any given links on my profile.
 
 <!---
